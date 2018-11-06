@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":ear" external.linked.project.path="$MODULE_DIR$/../../../ear" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="tp2-j2ee" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="javaeeApplication" name="javaEEApplication">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="application.xml" url="file://$MODULE_DIR$/../../../ear/src/main/resources/META-INF/application.xml" />
+        </descriptors>
+      </configuration>
+    </facet>
+    <facet type="javaeeApplication" name="JavaEE Application Gradle : ear.ear">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="application.xml" url="file://$MODULE_DIR$/../../../ear/build/libs/exploded/ear.ear/META-INF/application.xml" />
+        </descriptors>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../ear">
+      <excludeFolder url="file://$MODULE_DIR$/../../../ear/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ear/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,2053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Gradle : tp2-j2ee : ear.ear" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6ca67ef-3601-4011-816f-a5370cc6835f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/ear/.gradle/" />
+    <ignored path="$PROJECT_DIR$/ear/build/" />
+    <ignored path="$PROJECT_DIR$/ejb/.gradle/" />
+    <ignored path="$PROJECT_DIR$/ejb/build/" />
+    <ignored path="$PROJECT_DIR$/ejb/out/" />
+    <ignored path="$PROJECT_DIR$/web/.gradle/" />
+    <ignored path="$PROJECT_DIR$/web/build/" />
+    <ignored path="$PROJECT_DIR$/web/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="userstory.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/webapp/userstory.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="52" lean-forward="false" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ejb-jar.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ejb/src/main/resources/META-INF/ejb-jar.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.components.EjbModuleGeneralEditorProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.components.MethodPermissionsEditorProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.components.TransactionAttributesEditorProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="306">
+                <caret line="67" column="98" lean-forward="false" selection-start-line="67" selection-start-column="98" selection-end-line="67" selection-end-column="98" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="backlog.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/webapp/backlog.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="52" lean-forward="false" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="18" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="agencies.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/webapp/agencies.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/webapp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="14" column="52" lean-forward="false" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AgenciesServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/java/fr/usmb/javaee/AgenciesServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="479">
+              <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BacklogServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/java/fr/usmb/javaee/BacklogServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-421">
+              <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="agency.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/webapp/agency.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="52" lean-forward="false" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>descrition</find>
+      <find>System.out.pr</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="/usr/local/Cellar/gradle/4.3.1/libexec" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.3.1" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="tp2-j2ee" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="tp2-j2ee" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":ear" />
+                <option name="path" value="$PROJECT_DIR$/ear" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":ejb" />
+                <option name="path" value="$PROJECT_DIR$/ejb" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":web" />
+                <option name="path" value="$PROJECT_DIR$/web" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'tp2-j2ee'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseWtpFacet" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans Eclipse wtp configuration files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseWtp" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'tp2-j2ee'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'tp2-j2ee' (some of the displayed tasks may belong to subprojects)." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse WTP facet settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseWtpFacet" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'tp2-j2ee'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'tp2-j2ee'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'tp2-j2ee'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'tp2-j2ee'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a ear archive with all the modules, the application descriptor and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="ear" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse WTP component settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseWtpComponent" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="war" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'tp2-j2ee'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Eclipse wtp configuration files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseWtp" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseWtpComponent" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'tp2-j2ee'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ear">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':ear'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':ear'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="cleanEclipseWtpFacet" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':ear'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':ear'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans Eclipse wtp configuration files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="cleanEclipseWtp" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a ear archive with all the modules, the application descriptor and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="ear" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':ear'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':ear'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse WTP component settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="eclipseWtpComponent" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':ear'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Eclipse wtp configuration files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="eclipseWtp" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse WTP facet settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="eclipseWtpFacet" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':ear'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="cleanEclipseWtpComponent" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':ear'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ear" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ejb">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':ejb'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':ejb'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="cleanEclipseWtpFacet" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':ejb'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':ejb'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans Eclipse wtp configuration files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="cleanEclipseWtp" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':ejb'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':ejb'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse WTP component settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="eclipseWtpComponent" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':ejb'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Eclipse wtp configuration files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="eclipseWtp" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse WTP facet settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="eclipseWtpFacet" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':ejb'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="cleanEclipseWtpComponent" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':ejb'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ejb" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/web">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':web'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="cleanEclipseWtpFacet" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':web'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans Eclipse wtp configuration files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="cleanEclipseWtp" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':web'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse WTP component settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="eclipseWtpComponent" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="war" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Eclipse wtp configuration files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="eclipseWtp" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse WTP facet settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="eclipseWtpFacet" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="cleanEclipseWtpComponent" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="12318468084000" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="963405425" />
+        <entry key="$PROJECT_DIR$/ear/build.gradle" value="216580526" />
+        <entry key="$PROJECT_DIR$/ear/settings.gradle" value="1581136274" />
+        <entry key="$PROJECT_DIR$/ejb/build.gradle" value="4093498547" />
+        <entry key="$PROJECT_DIR$/ejb/settings.gradle" value="413778978" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="3188826796" />
+        <entry key="$PROJECT_DIR$/web/build.gradle" value="4134555005" />
+        <entry key="$PROJECT_DIR$/web/settings.gradle" value="3924106251" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/ear">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/ear" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/ejb">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/ejb" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/web">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/web" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="tp2-j2ee" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="/usr/local/opt/gradle/libexec/lib/ant-1.9.6.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/ant-launcher-1.9.6.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-base-services-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-base-services-groovy-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-build-cache-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-build-option-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-cli-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-core-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-core-api-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-docs-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-installation-beacon-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-jvm-services-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-kotlin-dsl-0.12.3.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-kotlin-dsl-tooling-builders-0.12.3.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-kotlin-dsl-tooling-models-0.12.3.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-launcher-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-logging-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-messaging-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-model-core-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-model-groovy-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-native-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-persistent-cache-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-process-services-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-resources-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-runtime-api-info-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-tooling-api-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/gradle-wrapper-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/groovy-all-2.4.12.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-announce-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-antlr-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-build-cache-http-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-build-comparison-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-build-init-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-code-quality-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-composite-builds-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-dependency-management-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-diagnostics-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-ear-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-ide-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-ide-native-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-ide-play-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-ivy-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-jacoco-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-javascript-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-language-groovy-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-language-java-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-language-jvm-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-language-native-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-language-scala-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-maven-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-osgi-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-platform-base-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-platform-jvm-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-platform-native-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-platform-play-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-plugin-development-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-plugin-use-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-plugins-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-publish-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-reporting-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-resources-gcs-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-resources-http-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-resources-s3-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-resources-sftp-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-scala-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-signing-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-test-kit-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-testing-base-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-testing-jvm-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-testing-native-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-tooling-api-builders-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-version-control-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/gradle-workers-4.3.1.jar" />
+                  <option value="/usr/local/opt/gradle/libexec/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../GEODIS/server" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exemplecomptes" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../gradle-java-ear" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../tp-colis" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../../repogit/TP-Master2/BPM" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/geodis/geo-notification-server" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/geodis/oldServeur/server-cceb78105c0d20a30f4543dece39b72dbd927369-cceb78105c0d20a30f4543dece39b72dbd927369" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/geodis/server" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/valsusaapp-server" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/braintree_spring_example-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/valsusaAppServer" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/valsusaapp" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/valsusaapp 2" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/jpa/Parcel.java" />
+        <option value="$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/jpa/Priority.java" />
+        <option value="$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/jpa/Track.java" />
+        <option value="$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/jpa/Comment.java" />
+        <option value="$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/jpa/Userstory.java" />
+        <option value="$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/ejb/AgencyOperation.java" />
+        <option value="$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/ejb/AgencyBean.java" />
+        <option value="$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/ejb/BacklogOperation.java" />
+        <option value="$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/ejb/BacklogBean.java" />
+        <option value="$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/ejb/CommentOperation.java" />
+        <option value="$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/ejb/UserstoryOperation.java" />
+        <option value="$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/ejb/UserstoryBean.java" />
+        <option value="$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/ejb/CommentBean.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/fr/usmb/javaee/MainServlet.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/fr/usmb/javaee/AgencyServlet.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/fr/usmb/javaee/agency/AllAgenciesServlet.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/fr/usmb/javaee/agency/RemoveAgencyServlet.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/fr/usmb/javaee/agency/CreateAgencyServlet.java" />
+        <option value="$PROJECT_DIR$/web/src/main/webapp/agencyDetails.jsp" />
+        <option value="$PROJECT_DIR$/web/src/main/java/fr/usmb/javaee/agency/AgenciesServlet.java" />
+        <option value="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/conf/tomcat-users.xml" />
+        <option value="$PROJECT_DIR$/ear/src/main/resources/META-INF/application.xml" />
+        <option value="$PROJECT_DIR$/web/src/main/webapp/comment.jsp" />
+        <option value="$PROJECT_DIR$/web/src/main/java/fr/usmb/javaee/AgenciesServlet.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/fr/usmb/javaee/CommentServlet.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/fr/usmb/javaee/UserstoryServlet.java" />
+        <option value="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/jpa/Backlog.java" />
+        <option value="$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/jpa/Agency.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/fr/usmb/javaee/BacklogServlet.java" />
+        <option value="$PROJECT_DIR$/web/src/main/webapp/agencies.jsp" />
+        <option value="$PROJECT_DIR$/web/src/main/webapp/agency.jsp" />
+        <option value="$PROJECT_DIR$/web/src/main/webapp/backlog.jsp" />
+        <option value="$PROJECT_DIR$/web/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/web/src/main/webapp/userstory.jsp" />
+        <option value="$PROJECT_DIR$/Readme.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="774" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="4.3.1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ear" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ear" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ear" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ear" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ear" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ejb" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ejb" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ejb" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ejb" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ejb" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="comptes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ejb" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="comptes" type="462c0819:PsiDirectoryNode" />
+              <item name="ejb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ejb" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="comptes" type="462c0819:PsiDirectoryNode" />
+              <item name="jpa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ejb" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ejb" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="readmeImages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javaee" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp2-j2ee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp2-j2ee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/readmeImages" />
+      <recent name="$PROJECT_DIR$/web/src/main/webapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fr.usmb.javaee" />
+      <recent name="fr.usmb.javaee.agency" />
+      <recent name="fr.usmb.m2isc.javaee.comptes.ejb" />
+      <recent name="fr.usmb.m2isc.javaee.comptes.jpa" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/src/main/webapp/WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="TomEE" type="TomeeConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="TomEE 8.5.32" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:9999/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : tp2-j2ee : ear.ear">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_tp2-j2ee" />
+        <option name="HTTP_PORT" value="9999" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62366" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : tp2-j2ee : ear.ear" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="lastUpdateTimestamp" value="1539853075871" />
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6ca67ef-3601-4011-816f-a5370cc6835f" name="Default" comment="" />
+      <created>1539808619555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539808619555</updated>
+      <workItem from="1539808621220" duration="7149000" />
+      <workItem from="1539853057330" duration="11734000" />
+      <workItem from="1539930520478" duration="8994000" />
+      <workItem from="1540235558002" duration="13000" />
+      <workItem from="1540996860418" duration="3668000" />
+      <workItem from="1541502958588" duration="7807000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39365000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32737276" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25767368" sideWeight="0.1045082" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25767368" sideWeight="0.8954918" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30811554" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Google Cloud Storage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="EJB" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="JavaEE:App" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="sbt" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/jpa/Userstory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="15" lean-forward="true" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/fr/usmb/javaee/AgenciesServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/agency.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="11" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="41" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/fr/usmb/javaee/UserstoryServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/backlog.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="27" lean-forward="true" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/fr/usmb/javaee/BacklogServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/ejb/UserstoryOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/ejb/BacklogBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/ejb/UserstoryBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="39" column="26" lean-forward="false" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/ejb/CommentOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/ejb/CommentBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/agencies.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="15" lean-forward="false" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/fr/usmb/javaee/AgenciesServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="47" column="29" lean-forward="false" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/jpa/Agency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/jpa/Priority.java" />
+    <entry file="file://$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/ejb/ParcelBean.java" />
+    <entry file="file://$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/ejb/BacklogOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/ejb/UserstoryOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/ejb/CommentOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/ejb/CommentBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/fr/usmb/javaee/agency/RemoveAgencyServlet.java" />
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/fr/usmb/javaee/agency/CreateAgencyServlet.java" />
+    <entry file="file://$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/ejb/BacklogBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/ejb/AgencyBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="46" column="25" lean-forward="false" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/ejb/AgencyOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/ejb/UserstoryBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ear/src/main/resources/META-INF/application.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ear/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejb/src/main/resources/META-INF/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/jpa/Agency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/jpa/Backlog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/jpa/Comment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejb/src/main/java/fr/usmb/m2isc/javaee/comptes/jpa/Userstory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="24" column="15" lean-forward="true" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/fr/usmb/javaee/CommentServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="93" column="44" lean-forward="false" selection-start-line="93" selection-start-column="44" selection-end-line="93" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/fr/usmb/javaee/UserstoryServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="103" column="34" lean-forward="false" selection-start-line="103" selection-start-column="34" selection-end-line="103" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/fr/usmb/javaee/BacklogServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-421">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/tomcat-users.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/fr/usmb/javaee/AgenciesServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/agencies.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/agency.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="52" lean-forward="false" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/backlog.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="52" lean-forward="false" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="14" column="52" lean-forward="false" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/userstory.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="52" lean-forward="false" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejb/src/main/resources/META-INF/ejb-jar.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.components.EjbModuleGeneralEditorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.components.MethodPermissionsEditorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.components.TransactionAttributesEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="18" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="306">
+            <caret line="67" column="98" lean-forward="false" selection-start-line="67" selection-start-column="98" selection-end-line="67" selection-end-column="98" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

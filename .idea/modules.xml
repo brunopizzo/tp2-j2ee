@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ear/ear.iml" filepath="$PROJECT_DIR$/.idea/modules/ear/ear.iml" group="ear" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ejb/ejb.iml" filepath="$PROJECT_DIR$/.idea/modules/ejb/ejb.iml" group="ejb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ejb/ejb_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ejb/ejb_main.iml" group="ejb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ejb/ejb_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ejb/ejb_test.iml" group="ejb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tp2-j2ee.iml" filepath="$PROJECT_DIR$/.idea/modules/tp2-j2ee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web.iml" group="web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web_main.iml" group="web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web_test.iml" group="web" />
+    </modules>
+  </component>
+</project>
